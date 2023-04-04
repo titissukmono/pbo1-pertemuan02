@@ -6,6 +6,7 @@ Scanner scanner = new Scanner(System.in);
 string nama;
 System.out.print("Masukan Nama anda : ");
 nama =scanner.nextLine();
+System.out.println("Hai,"+nama);
 
 }
 }
